@@ -1,141 +1,18 @@
-# Hi, I'm Syed 👋
+# 💫 About Me:
+☁️ I design and implement scalable Cloud & DevOps solutions across AWS and Azure<br>🏗️ I work on Solution Architecture, Technical Pre-Sales, Cloud Migration & Application Modernization<br>⚙️ I build CI/CD and Kubernetes platforms across EKS, AKS, GKE & ROSA<br>🤖 I design and implement AI / Agentic AI solutions using LLM, RAG & Amazon Bedrock<br>🔎 I work with RAG architectures, Knowledge Bases, embeddings & vector search<br>💰 I build AI-driven FinOps and cloud cost optimization solutions<br>🚀 I enjoy turning business requirements into practical, scalable cloud solutions<br>💬 Ask me about AWS, Azure, Kubernetes, DevOps, Cloud Architecture & AI
 
-## Senior Solution Engineer | Cloud & DevOps Architect | AI/Agentic AI Solutions
 
-I design and implement cloud architectures across **AWS, Azure, and GCP** — spanning
-technical pre-sales, migration, application modernization, DevOps/Kubernetes platform
-engineering, and AI/Agentic AI solutioning on Amazon Bedrock.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/syed-ishaq-43540b226) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmsyedishaq@myyahoo.com) 
 
-This portfolio is a curated set of **independent, self-initiated reference
-architectures and personal projects** built to demonstrate the kind of solutions I
-design and implement as a Senior Solution Engineer — none of it is derived from, based
-on, or affiliated with any employer or client engagement. Any customer references
-(`Customer A`, `Enterprise Customer`, etc.) are entirely fictional, used purely to make
-the architecture examples concrete.
+# 💻 Tech Stack:
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=syedishaq01473&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=syedishaq01473&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=syedishaq01473&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🧭 About Me
-
-8+ years across helpdesk → sysops → DevOps engineering → solution engineering. Today I
-sit at the intersection of **pre-sales solutioning** and **hands-on implementation**:
-designing cloud architectures and BOQs/SOWs for enterprise migration and modernization
-engagements, then getting into the weeds on Terraform, Kubernetes, CI/CD, and Bedrock
-to make sure what's on the whiteboard actually ships.
-
-I'm currently deepening my focus on **AI Engineering and GenAI Solutions Architecture**
-— RAG pipelines, Agentic AI on Bedrock, and cost-aware AI system design — on top of my
-cloud architecture and DevOps foundation.
-
----
-
-## 🏗️ Architecture & Cloud Expertise
-
-| Area | Depth |
-|---|---|
-| **AWS** | Solutioning + hands-on implementation (migration, modernization, landing zones, Bedrock/AI) |
-| **Azure** | Solutioning + hands-on implementation (migration, AKS, Azure DevOps) |
-| **GCP** | Hands-on DevOps/Kubernetes implementation (GKE-focused) |
-| **Kubernetes** | EKS, AKS, GKE, ROSA — platform engineering, GitOps, HA/DR |
-| **AI / Agentic AI** | Amazon Bedrock, RAG, LLM orchestration, Bedrock Agents |
-| **FinOps** | Cloud cost analysis, optimization, forecasting |
-| **Pre-Sales** | BOQ/SOW authoring, architecture proposals, partner enablement |
-
----
-
-## 🧰 Core Technologies
-
-**Cloud:** AWS · Azure · GCP
-**Containers/Orchestration:** Docker · Kubernetes (EKS/AKS/GKE/ROSA) · Helm · Argo CD
-**IaC:** Terraform · CloudFormation · Ansible
-**CI/CD:** Jenkins · GitHub Actions · GitLab CI/CD · Azure DevOps · Google Cloud Build
-**AI/ML:** Amazon Bedrock · LLM Orchestration · RAG · OpenSearch Serverless · Agentic AI
-**Observability:** Prometheus · Grafana · CloudWatch · Azure Monitor
-**Languages:** Python · Bash · HCL
-
----
-
-## ⭐ Featured Solutions
-
-| Repository | What it demonstrates |
-|---|---|
-| [`ai-proposal-generator`](./ai/proposal-generator) | RAG-based GenAI pre-sales automation on Bedrock + OpenSearch Serverless |
-| [`agentic-finops-platform`](./ai/finops-agentic-ai) | Agentic AI (Bedrock Agents) for cloud cost optimization |
-| `bankiq-eks-gitops` *(coming next)* | GitOps CI/CD modernization on Amazon EKS |
-| `aws-devops-modernization` *(coming next)* | Legacy app → containers → ECS/Lambda → multi-account governance |
-| `onprem-to-aws-migration` *(coming next)* | Discovery → DMS → cutover reference migration architecture |
-| `onprem-to-azure-migration` *(coming next)* | Azure Migrate → landing zone → AKS reference migration |
-| `k8s-app-modernization` *(coming next)* | Monolith decomposition → EKS/AKS/GKE/ROSA |
-| `k8s-platform-engineering` *(coming next)* | GitOps platform: Argo CD, IRSA, RBAC, network policies |
-| `aws-iot-reference-architecture` *(coming next)* | IoT Core ingestion → processing → analytics |
-| `terraform-aws-solution-architecture` *(coming next)* | Modular, production-style Terraform library |
-| `enterprise-cicd-reference` *(coming next)* | Multi-tool CI/CD pipeline reference (Jenkins/GHA/GitLab/ADO) |
-| `rag-agentic-ai-reference` *(coming next)* | Standalone RAG + Agentic AI pattern library |
-
-*(Each repo below is labeled either **Reference Architecture** or **Portfolio
-Demonstration** — see individual READMEs for scope and disclaimers.)*
-
----
-
-## ☁️ Cloud Architecture
-
-Landing zones, multi-account governance, migration planning (discovery → assessment →
-DMS-based migration → cutover), and modernization (containerization, ECS/EKS,
-serverless) across AWS and Azure.
-
-## ⚙️ DevOps & Kubernetes
-
-Hands-on across EKS, AKS, GKE, and ROSA: GitOps with Argo CD, Helm packaging, HPA/cluster
-autoscaling, RBAC/IRSA/network policies, and multi-environment promotion pipelines.
-
-## 🤖 AI / Agentic AI
-
-RAG pipelines on Amazon Bedrock Knowledge Bases + OpenSearch Serverless; Agentic AI
-using Bedrock Agents with Lambda-backed tools for autonomous, multi-step workflows.
-
-## 🔁 Cloud Migration & Modernization
-
-End-to-end migration methodology: discovery/dependency mapping → landing zone → data
-migration (AWS DMS / Azure Migrate) → validation → cutover → DR posture.
-
-## 💰 FinOps
-
-Cost ingestion (CUR/Billing exports), raw→processed→curated data pipelines, waste
-detection, forecasting, and AI-assisted optimization recommendations.
-
----
-
-## 📜 Certifications
-
-- AWS Certified DevOps Engineer – Professional
-- AWS Certified Developer – Associate
-- Microsoft Certified: Azure Administrator Associate
-- GitLab Certified DevOps Professional
-- Certified Kubernetes Administrator (CKA) — *expired, renewal in progress*
-
----
-
-## 💼 Professional Experience
-
-**Senior Solution Engineer** — 8+ years across helpdesk, sysops, DevOps engineering,
-and solution engineering, with a current focus on pre-sales solution design, cloud
-architecture, and hands-on implementation across AWS and Azure. *(Add employer name
-and specifics here if you're comfortable sharing them publicly — otherwise this
-level of detail is fine to leave as-is.)*
-
----
-
-## 📫 Let's Connect
-
-- **LinkedIn:** [add your LinkedIn URL]
-- **Email:** [add your email]
-- **Location:** Chennai, Tamil Nadu, India
-
----
-
-> ⚠️ **Note on scope:** Repositories in this portfolio are independent, self-initiated
-> reference architectures and personal projects — none are derived from or affiliated
-> with any employer or client work. No real customer names, production metrics,
-> cost-savings figures, or availability numbers appear anywhere; all such repos use
-> placeholder entities (`Customer A`, `YOUR_AWS_ACCOUNT_ID`, etc.) purely for
-> illustration.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
