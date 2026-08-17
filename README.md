@@ -1,5 +1,8 @@
 # ☁️ Senior Solution Engineer | Cloud & Kubernetes Architect
 
+**Syed Ishaq**
+[LinkedIn](https://linkedin.com/in/syed-ishaq-43540b226) · [dmsyedishaq@myyahoo.com](mailto:dmsyedishaq@myyahoo.com)
+
 ### From On-Premises Infrastructure → DevOps → Kubernetes → Cloud → Solution Architecture → AI
 
 ---
@@ -95,6 +98,107 @@ I enjoy exploring how LLM, RAG and Agentic AI can solve real enterprise problems
 Kubernetes has been the connective thread through my journey from DevOps engineering into cloud architecture — it's the layer where infrastructure, applications, networking and operations all meet, which is exactly why I find it worth going deep on.
 
 My experience spans EKS, AKS, GKE and ROSA — cluster operations, application deployments, Helm, GitOps with Argo CD, autoscaling, networking, RBAC, IRSA, security, monitoring, troubleshooting, and application modernization onto Kubernetes platforms.
+
+---
+
+## 🤖 AI / Agentic AI Engineering
+
+### 🧠 LLM-Powered Enterprise Applications
+Designed and implemented enterprise applications powered by Large Language Models, integrating business requirements with LLM-driven reasoning and response generation — LLM integration, prompt engineering, structured prompt design, context-aware response generation, enterprise application integration, API-based LLM invocation.
+
+### 📚 RAG & Enterprise Knowledge
+Designed RAG-based architectures that allow LLM applications to use enterprise-specific knowledge instead of relying only on the model's pretrained knowledge.
+
+```
+Enterprise Documents
+    → Data Ingestion
+    → Document Processing
+    → Chunking
+    → Embeddings
+    → Vector Index
+    → Semantic Retrieval
+    → Relevant Context
+    → LLM
+    → Grounded Response
+```
+
+RAG • Knowledge Bases • Document ingestion • Chunking • Embeddings • Vector search • Semantic retrieval • Amazon OpenSearch Serverless • Amazon Bedrock Knowledge Bases
+
+### 📄 AI-Powered Document & Proposal Generation
+Built AI-driven applications capable of generating structured business and technical content from user requirements and enterprise knowledge — requirement understanding, context retrieval, LLM-based content generation, structured proposal generation, technical solution content, implementation planning, automated document generation, DOCX generation/export.
+
+### 💰 AI-Driven FinOps & Cost Intelligence
+Designed AI-powered cloud cost intelligence capabilities combining cloud billing/cost data with LLM/Agentic AI workflows — AWS billing and Cost & Usage data ingestion, cost data processing, business/cost data normalization, cost analysis, waste identification, cost optimization recommendations, forecasting, budget utilization analysis, AI-driven recommendations.
+
+### 🤖 Agentic AI
+Worked on AI systems where the LLM is combined with tools/actions and enterprise data to perform multi-step analysis and generate actionable outcomes — agent-based workflows, tool/action integration, LLM reasoning, enterprise data access, automated analysis, action-oriented recommendations, AWS Bedrock Agents, Lambda-based tools/actions.
+
+### 🔄 AI Data Ingestion
+Worked on the data side required to make enterprise AI applications useful — document ingestion, structured and unstructured data processing, raw → processed → curated data flows, data cleansing, validation, transformation, normalization, enrichment, embedding generation, knowledge-base preparation, vector indexing.
+
+This spans both sides of an AI solution: **DATA → AI KNOWLEDGE → RETRIEVAL → LLM → APPLICATION**.
+
+### 🏗️ AI Solution Architecture
+My role goes beyond simply calling an LLM API — I've worked across the full stack:
+
+```
+User Interface
+    → API / Application Layer
+    → AI Orchestration
+    → Knowledge Retrieval
+    → LLM
+    → Tools / Actions
+    → Business Data
+    → Response / Recommendation
+```
+
+Amazon Bedrock • Amazon Bedrock Knowledge Bases • Amazon Bedrock Agents • Amazon OpenSearch Serverless • Lambda • FastAPI • React • DynamoDB • S3
+
+### 🔐 Enterprise AI
+Authentication and authorization • Secure API access • Data isolation • Enterprise knowledge grounding • Controlled AI responses • Application security • Scalable architecture • Monitoring and operational considerations
+
+---
+
+## 🧭 AI Architecture Mindset
+
+```
+BUSINESS REQUIREMENT
+        ↓
+DATA / KNOWLEDGE
+        ↓
+INGESTION & PROCESSING
+        ↓
+RAG / RETRIEVAL
+        ↓
+LLM / AGENT
+        ↓
+TOOLS & BUSINESS LOGIC
+        ↓
+APPLICATION
+        ↓
+ACTIONABLE OUTPUT
+```
+
+I focus on building AI solutions around real enterprise data and business workflows, combining LLMs with RAG, knowledge retrieval, tools and application logic rather than treating an LLM as a standalone chatbot.
+
+---
+
+## 🧬 AI Technology Stack
+
+| AI Capability | Technologies |
+|---|---|
+| LLM | Amazon Bedrock • Anthropic Claude |
+| RAG | Bedrock Knowledge Bases • OpenSearch Serverless |
+| Embeddings | Embedding Models • Vector Embeddings |
+| Vector Search | Amazon OpenSearch Serverless |
+| Agentic AI | Bedrock Agents • Lambda Tools/Actions |
+| Backend | Python • FastAPI • Uvicorn • Pydantic |
+| Auth | PyJWT |
+| AWS SDK / Integration | Boto3 • LangChain AWS |
+| Frontend | React • TypeScript |
+| Data | S3 • DynamoDB |
+| Document Generation | python-docx |
+| AI Patterns | RAG • Agentic Workflows • Prompt Engineering |
 
 ---
 
@@ -200,6 +304,9 @@ Containers • Microservices • Kubernetes • Cloud Migration
 **🤖 AI**
 Amazon Bedrock • LLM • RAG • Agentic AI • Knowledge Bases • OpenSearch
 
+**🐍 Python Stack**
+Python • FastAPI • Uvicorn • Pydantic • Boto3 • LangChain AWS • PyJWT • python-docx
+
 **📊 Observability**
 CloudWatch • Prometheus • Grafana • X-Ray
 
@@ -215,9 +322,3 @@ IAM • RBAC • IRSA • Network Policies
 🏆 Microsoft Certified: Azure Administrator Associate — Microsoft
 🏆 GitLab Certified DevOps Professional — GitLab
 🏆 Certified Kubernetes Administrator (CKA) — CNCF *(expired, renewal in progress)*
-
----
-
-<p align="center">
-<a href="https://linkedin.com/in/syed-ishaq-43540b226">LinkedIn</a>
-</p>
