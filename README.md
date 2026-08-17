@@ -1,15 +1,158 @@
-# 💫 About Me:
-☁️ Senior Solution Engineer | Cloud & DevOps Architect with 8+ years of experience across AWS, Azure & GCP.<br><br>🏗️ Solution Architecture | Technical Pre-Sales | Cloud Migration | Application Modernization<br><br>⚙️ AWS | Azure | GCP | EKS | AKS | GKE | ROSA | Kubernetes | Terraform | CI/CD | GitOps<br><br>🤖 AI / Agentic AI | Amazon Bedrock | LLM | RAG | Knowledge Bases | Embeddings | Vector Search<br><br>💰 Agentic AI FinOps | Cloud Cost Optimization | Cost Analysis | Forecasting | Optimization<br><br>🚀 I design and implement scalable, secure, automated cloud solutions that transform business requirements into production-ready architectures.<br><br>💬 Ask me about Cloud Architecture, DevOps, Kubernetes, AWS, Azure, AI, RAG, Agentic AI & Technical Pre-Sales.
+# ☁️ Senior Solution Engineer | Cloud & DevOps Architect
 
+**AWS • Azure • GCP • Kubernetes • Cloud Modernization • AI / Agentic AI • Technical Pre-Sales**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-ishaq-43540b226) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmsyedishaq@myyahoo.com) 
+Senior Solution Engineer with 8+ years of experience designing and implementing enterprise cloud solutions across AWS, Azure, and GCP. I translate business requirements into scalable, secure, production-ready architectures — spanning cloud migration, Kubernetes platform engineering, and AI/Agentic AI solutioning.
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=syedishaq01473&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=syedishaq01473&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=syedishaq01473&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+☁️ Senior Solution Engineer with 8+ years of experience across AWS, Azure and GCP
+🏗️ Solution Architecture · Technical Pre-Sales · Cloud Migration · Application Modernization
+⚙️ DevOps · Kubernetes · CI/CD · GitOps · Infrastructure as Code
+🤖 AI / Agentic AI · LLM · RAG · Amazon Bedrock
+💰 FinOps · Cloud Cost Optimization
+🚀 Experienced in translating business requirements into scalable, secure, production-ready cloud solutions
+
+---
+
+## 🧭 Core Expertise
+
+| | |
+|---|---|
+| 🏗️ **Solution Architecture** | Designing end-to-end cloud solutions from business requirement to production. |
+| ☁️ **Cloud Architecture** | Landing zones, multi-account governance, and architecture design across AWS & Azure. |
+| ⚙️ **DevOps & CI/CD** | Pipeline design and automation across Jenkins, GitHub Actions, GitLab CI/CD, Azure DevOps. |
+| ☸️ **Kubernetes & Platform Engineering** | Enterprise Kubernetes on EKS, AKS, GKE, and ROSA. |
+| 🔄 **Cloud Migration** | On-premises to cloud migration with minimal-disruption cutover strategy. |
+| 🚀 **Application Modernization** | Containerization and transition of legacy workloads to modern platforms. |
+| 🤖 **AI / Agentic AI** | GenAI and Agentic AI solutioning on Amazon Bedrock. |
+| 💰 **FinOps & Cost Optimization** | Cloud cost analysis, waste detection, and optimization strategy. |
+| 🤝 **Technical Pre-Sales & POCs** | Architecture proposals, BOQ/SOW authoring, and partner enablement. |
+
+---
+
+## 🚀 Featured Projects & Solutions
+
+**🤖 AI Proposal Generation Chatbot — Presales Automation**
+AI-powered presales solution automating technical proposal generation using LLM, RAG, Amazon Bedrock, enterprise knowledge retrieval, automated costing, and document generation.
+`Amazon Bedrock` `LLM` `RAG` `OpenSearch` `FastAPI` `React` `AWS`
+
+---
+
+**💰 Agentic AI FinOps / Cloud Cost Optimization Platform**
+Agentic AI-based FinOps solution analyzing AWS cost and usage data to identify optimization opportunities, detect waste, and surface actionable cloud cost insights.
+`Agentic AI` `Amazon Bedrock` `FinOps` `AWS CUR` `S3` `Lambda` `FastAPI`
+
+---
+
+**☸️ BankIQ — CI/CD Modernization on AWS EKS**
+Modernized CI/CD and Kubernetes application delivery for a large microservices platform using GitOps and automated deployment practices on Amazon EKS.
+`AWS` `EKS` `Kubernetes` `Argo CD` `GitHub Actions` `Helm` `GitOps`
+
+---
+
+**✈️ AWS DevOps Modernization**
+DevOps modernization initiative focused on containerized application delivery, CI/CD automation, serverless integration, and multi-account cloud governance.
+`AWS` `ECS` `Lambda` `Control Tower` `CI/CD` `DevOps`
+
+---
+
+**🔄 On-Premises to AWS Migration**
+Cloud migration initiative involving modernization and migration of on-premises application and database workloads to AWS, focused on scalability, reliability, and minimal-disruption cutover.
+`AWS` `Migration` `EC2` `RDS` `DMS` `VPC` `Cloud Modernization`
+
+---
+
+**🔵 On-Premises to Azure Migration & DevOps**
+End-to-end cloud migration and DevOps modernization initiative transitioning on-premises workloads to Azure and Kubernetes-based application platforms.
+`Azure` `AKS` `Azure DevOps` `Azure Migrate` `VNet` `Migration`
+
+---
+
+**☸️ Kubernetes Application Modernization**
+Application modernization initiative focused on containerizing and transitioning traditional workloads to scalable Kubernetes-based microservices platforms.
+`Kubernetes` `EKS` `AKS` `GKE` `ROSA` `Docker` `Helm`
+
+---
+
+**🌐 Kubernetes Platform Engineering**
+Designed and supported enterprise Kubernetes platforms across AWS, Azure, GCP, and hybrid environments, focused on scalability, reliability, automation, and secure application delivery.
+`EKS` `AKS` `GKE` `ROSA` `Kubernetes` `Terraform` `GitOps`
+
+---
+
+**📡 AWS IoT Platform**
+AWS-based IoT solution for connected-device communication, data ingestion, processing, and cloud application integration.
+`AWS IoT Core` `AWS` `Cloud Architecture` `Data Ingestion`
+
+---
+
+## 🏛️ Architecture Experience
+
+`☁️ AWS Cloud Architecture` `🔵 Azure Cloud Architecture` `🌐 GCP / GKE Implementation` `☸️ Kubernetes Architecture` `🔄 Cloud Migration Architecture` `🚀 Application Modernization` `🤖 AI / RAG Architecture` `💰 FinOps Architecture` `⚙️ DevOps & GitOps Architecture`
+
+---
+
+## 🏆 Certifications
+
+🏆 AWS Certified DevOps Engineer – Professional — Amazon Web Services
+🏆 AWS Certified Developer – Associate — Amazon Web Services
+🏆 Microsoft Certified: Azure Administrator Associate — Microsoft
+🏆 GitLab Certified DevOps Professional — GitLab
+🏆 Certified Kubernetes Administrator (CKA) — CNCF *(expired, renewal in progress)*
+
+---
+
+## 💻 Technology Stack
+
+| Domain | Technologies |
+|---|---|
+| Cloud | AWS • Azure • GCP |
+| Kubernetes | EKS • AKS • GKE • ROSA |
+| DevOps | Jenkins • GitHub Actions • GitLab CI/CD • Azure DevOps |
+| IaC | Terraform • CloudFormation • Ansible |
+| AI | Amazon Bedrock • LLM • RAG • Agentic AI |
+| Data / Vector | S3 • DynamoDB • OpenSearch Serverless |
+| Application | Python • FastAPI • React • TypeScript |
+| Observability | CloudWatch • Prometheus • Grafana • X-Ray |
+| Security | IAM • RBAC • IRSA • Network Policies |
+
+---
+
+## 📈 Professional Journey
+
+```
+👨‍💻 DevOps Engineering
+        ↓
+☸️ Kubernetes & Platform Engineering
+        ↓
+☁️ Cloud Engineering
+        ↓
+🔄 Cloud & Application Modernization
+        ↓
+🏗️ Solution Architecture
+        ↓
+🤝 Technical Pre-Sales
+        ↓
+🤖 AI / Agentic AI Solutions
+```
+
+---
+
+## 🎯 What I Bring
+
+- Business requirement → Technical solution
+- Architecture → Implementation
+- Cloud → DevOps → Production
+- Modernization → Migration
+- AI / Agentic AI → Business solutions
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-ishaq-43540b226)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmsyedishaq@myyahoo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/syedishaq01473)
